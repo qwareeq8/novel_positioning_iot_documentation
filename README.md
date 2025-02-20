@@ -14,8 +14,8 @@ The documentation includes all aspects of the project—from the initial introdu
 
 ```
 novel_positioning_iot_documentation/
-├── documentation.pdf    # Complete project documentation/report
-└── README.md            # This file
+├── documentation.pdf
+└── README.md
 ```
 
 ## How to Access
